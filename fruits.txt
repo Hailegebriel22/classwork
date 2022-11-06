@@ -1,3 +1,5 @@
 Apple
-Banana
+Bananas
 Mango
+Orange
+Pinaple
